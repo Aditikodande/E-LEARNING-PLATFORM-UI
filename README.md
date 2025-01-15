@@ -59,6 +59,10 @@ Quizzes and Assignments: Introduce interactive quizzes and tasks to test user kn
 Community Features: Add forums or chat options for users to interact and discuss course material.
 Mobile App: Develop a mobile application for better accessibility and on-the-go learning.
 
-OUTPUT:
+OUTPUT:https://github.com/user-attachments/assets/6b82fe15-a80f-435b-b02b-103adb292594
+https://github.com/user-attachments/assets/12d2523b-db1e-4130-8a78-a8f4bb30253e
+https://github.com/user-attachments/assets/374597dc-d2da-4436-ab30-cf797e02d9d8
+https://github.com/user-attachments/assets/4c38603d-794f-4365-adcd-adf714958c0a
+
 
 
